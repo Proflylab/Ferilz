@@ -1,0 +1,10 @@
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\bin\x86\Debug\Ferilz.exe.config
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\bin\x86\Debug\Ferilz.exe
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\bin\x86\Debug\Ferilz.pdb
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\bin\x86\Debug\Ferilz.xml
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.frmMain.resources
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.Resources.resources
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.vbproj.GenerateResource.Cache
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.exe
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.xml
+c:\users\imonet\documents\visual studio 2013\Projects\Ferilz\Ferilz\obj\x86\Debug\Ferilz.pdb

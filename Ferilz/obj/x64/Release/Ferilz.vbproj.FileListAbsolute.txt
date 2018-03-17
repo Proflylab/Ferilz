@@ -1,0 +1,14 @@
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\bin\x64\Release\Ferilz.exe.config
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\bin\x64\Release\Ferilz.exe
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\bin\x64\Release\Ferilz.pdb
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\bin\x64\Release\Ferilz.xml
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.frmMain.resources
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.Resources.resources
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.vbproj.GenerateResource.Cache
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.exe
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.xml
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.pdb
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Ferilz\Ferilz\bin\x64\Release\Ferilz.exe.config
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.exe
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.xml
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Ferilz\Ferilz\obj\x64\Release\Ferilz.pdb

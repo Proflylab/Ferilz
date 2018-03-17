@@ -1,0 +1,2 @@
+# Ferilz
+Delete application startup
